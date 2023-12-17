@@ -1,0 +1,31 @@
+#+title: My daily activities
+#+author: Ivan Zanon
+
+This is a daily control of activities
+
+* Sweet Mustard
+
+** VanDessel project
+
+*** TODO Study calculations
+
+For the calculations, we still need to check the settlements.
+
+- For the settlements (0/2)
+  - [ ] Check the code
+  - [ ] Test it on staging with one controlled policy
+
+*** TODO Check staging and tests made by Charlotte
+
+Keep an eye open to check any problesm on Charlotte's testing.
+
+
+* Home
+** House keeping
+
+*** TODO Aspirate the house with the /aspirator de dust/
+
+** Personal development
+*** TODO Practice keyboards
+*** TODO Draw something
+*** TODO Study Clojure for some hours
