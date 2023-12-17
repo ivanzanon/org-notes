@@ -1,0 +1,39 @@
+#+title: Clojure Notes
+#+author: Ivan Zanon
+
+* Clojure
+
+** TODOs
+
+*** TODO Ask Doug about the Clojure exercises mailist
+
+Doug told me that he was signed up in a mailing list for clojure exercises.
+Let's ask him tha addresss
+
+*** TODO Try to solve exercises using Cider
+
+Try to create a project from scratch using -lein- and solve at least three exercises using only cider and emacs
+Focus here is to use multiple files, import them, and also create tests using midje for all of them
+
+*** TODO Check on Cider, how to change the profile
+
+When using the Cider repl, I need to pass the profile as a parameter before running.
+Using VsCode, this is done by selecting it in a dropdown above the page.
+In EMACS, I need to change the variable that runs the command and this is not conveninent AT ALL.
+
+
+When I use ~policy-service~ for this purposes...
+/itlaic/
+
+
+
+
+
+** Cider documents
+
+[[https://docs.cider.mx/cider/index.html][CIDER basic documentation]]
+
+   
+** List of exercises
+
+** Basic documentations

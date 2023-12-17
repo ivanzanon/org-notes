@@ -1,0 +1,76 @@
+#+title: Dev Notes
+#+author: Ivan Zanon
+
+* My Dev Notes
+  My notes about develop, studies, personal projects, and stuff... 
+  
+  
+* TODO Study ORG Mode for Emacs
+** DONE Follow the quickstart page on the official site
+
+   *Here* are /my first/ _notes_ for the study of +Markup Language+ Org Mode.
+
+I'll use it to study some -codes- and also to check some =personal projects=
+
+I intend to study things like:
+
+- Clojure
+  + More fundamentals
+  + Make exercises
+- Cider
+- Godot
+  + Start personal projects for games
+
+But I feel that is important to start with the Emacs for gaining organization in the process, so:
+
+1. Want to follow the tutorials
+2. Check the advanced part
+   - Links
+   - How to interpret the file or transfor it into another thing.
+
+- [ ] Making checkbox
+- [-] Another checkbox
+- [x] Done already this activity
+
+** DONE The basics
+
+The documentation can be found on 
+
+[[https://orgmode.org/quickstart.html#fn.1][The quickstart page]]
+
+We can also go back to the start of this file via
+
+[[*My Dev Notes][This should bring me to the first header]]
+
+An this is a Macro... we will never be free from macros.
+
+#+macro: attn _*/$1/*_
+{{{attn(Attention! This text gets all the markup!)}}}
+
+#+html_head: <style>.red{color:red;}</style>
+#+latex_header: \usepackage{xcolor}
+#+macro: red @@html:<span class="red">$1</span>@@@@latex:\textcolor{red}{$1}@@
+Regular text. {{{red(This text will be red.)}}} More regular text.
+
+
+
+** TODO See org mode files as a project file into projectile
+**** TODO Upload project to gitlab, see how it goes with projectile
+
+
+* Table of contents
+
+- [[file:dev_notes/clojure.org::*Clojure][Clojure]]
+  + [[file:dev_notes/clojure.org::*TODOs][TODOs]]
+  + [[file:dev_notes/clojure.org::*Cider documents][Cider documents]]
+  + Basic exercises
+  + Basic documentations
+- Digital art
+  - Basic materials
+
+  
+
+
+
+
+
